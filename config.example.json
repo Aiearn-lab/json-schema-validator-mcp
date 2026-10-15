@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "json-schema-validator": {
+      "command": "node",
+      "args": ["/你的绝对路径/json-schema-validator-mcp/index.js"]
+    }
+  }
+}
